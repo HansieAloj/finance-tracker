@@ -1,5 +1,6 @@
 {
   "dependencies": {
+    "@popperjs/core": "^2.11.5",
     "yarn": "^1.22.19"
   }
 }
